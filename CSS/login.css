@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.btn1{
+    border: 2px solid #F88634;
+    border-radius: 24px;
+    top: 544px;
+    left: 1432px;
+    width: 401px;
+    height: 48px;
+    background-color: #F8863400;
+    color: #F88634;
+    font-size: 17px;
+
+}
+
+img-fluid{
+    max-width: 100%;
+  height: auto;
+}
+
+.policy{
+    top: 890px;
+left: 1589px;
+width: 113px;
+height: 19px;
+color: #414141;
+}
+
+.text{
+    color: #414141;
+    font-size: 16px;
+}
+
