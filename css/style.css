@@ -199,3 +199,59 @@ html {
 .mgt-21 {
   margin-top: 21px;
 }
+
+/* Platform Landing Page */
+.avatar{
+  object-fit: none;
+}
+
+@media (min-width: 992px) {
+
+  .no-border:valid {
+    border-color: #fff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  }
+  
+  body {
+    background: #eee;
+    
+  }
+  
+  .ratings i {
+    color: green;
+  }
+  
+  .install span {
+    font-size: 12px;
+  }
+  
+  .col-md-4 {
+    margin-top: 27px;
+  }
+
+  .star
+  {
+    color: #F8D441;
+  }
+
+  .timeline
+  {
+    border-radius: 0px;
+  }
+  
+  .button
+  {
+    background: #FFFFFF;
+    color: #F88634;
+    border-radius: 20px;
+    border-color: #F88634;
+    font-size: large;
+  }
+
+  .text
+  {
+    margin-left: auto;
+  }
+
