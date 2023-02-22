@@ -255,3 +255,55 @@ html {
     margin-left: auto;
   }
 
+  /* Volunteering Mission Page */
+  .mission-filter-box {
+    min-height: 130px;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+}
+
+#recommend-btn:hover img {
+    content: url("../images/user.png");
+}
+
+#addtofav:hover img {
+    content: url("../images/heart.png");
+}
+
+body {
+  background-color: #eee
+}
+
+.carousel-inner img {
+  width: 100%
+}
+
+.carousel-item img {
+  width: 320px;
+  height: 100px !important
+}
+
+#myCarousel .carousel-indicators {
+  position: static;
+  margin-top: 0px
+}
+
+#myCarousel .carousel-indicators>li {
+  width: 100px
+}
+
+#myCarousel .carousel-indicators li img {
+  display: block;
+  opacity: 0.5
+}
+
+#myCarousel .carousel-indicators li.active img {
+  opacity: 1
+}
+
+#myCarousel .carousel-indicators li:hover img {
+  opacity: 0.75
+}
